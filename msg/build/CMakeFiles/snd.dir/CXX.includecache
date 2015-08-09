@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lb/test/msg/const.h
+sys/types.h
+-
+sys/ipc.h
+-
+sys/msg.h
+-
+cstring
+-
+
+/home/lb/test/msg/snd.cpp
+unistd.h
+-
+const.h
+/home/lb/test/msg/const.h
+cassert
+-
+cstring
+-
+iostream
+-
+errno.h
+-
+string.h
+-
+

@@ -1,0 +1,2 @@
+/home/lb/test/tcp/build/CMakeFiles/pong.dir
+/home/lb/test/tcp/build/CMakeFiles/ping.dir

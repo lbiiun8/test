@@ -1,0 +1,2 @@
+/home/lb/test/msg/build/CMakeFiles/snd.dir
+/home/lb/test/msg/build/CMakeFiles/rcv.dir

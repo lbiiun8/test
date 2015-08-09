@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/snd.dir/snd.cpp.o  -o snd -rdynamic 

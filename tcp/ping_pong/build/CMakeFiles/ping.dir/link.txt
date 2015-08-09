@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g   CMakeFiles/ping.dir/ping.cpp.o CMakeFiles/ping.dir/TimeCost.cpp.o  -o ping -rdynamic 
